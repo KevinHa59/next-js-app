@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## This is a blank Next JS app with MUI dependencies.
+
+After clone this project, run: 
+```
+npm install
+```
+
 ## Getting Started
 
 First, run the development server:
